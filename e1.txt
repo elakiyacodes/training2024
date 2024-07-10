@@ -1,1 +1,3 @@
-esdrcftvghbjnkmtyghujnk
+var a = 10;
+
+gs.info(a);
