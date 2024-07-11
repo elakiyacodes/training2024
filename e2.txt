@@ -10,9 +10,8 @@ Newline
 
 
 Newline
+ git merge branch1 -m "Merge commit"
+Already up to date.
 
-
-
-
-
-newline
+ git merge branch1 -m "Merge commit"
+Already up to date.
