@@ -1,4 +1,1 @@
-var a = 10;
-
-gs.info(a);
-trfgyuhijkol
+update
